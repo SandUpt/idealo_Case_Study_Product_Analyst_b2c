@@ -1,0 +1,2 @@
+# idealo_Case_Study_Product_Analyst_b2c
+case_study
